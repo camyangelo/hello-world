@@ -6,17 +6,17 @@ I instantly see how it is useful to document software features for a release. I'
 
 # Camille Marshall
 ## Senior Technical Writer
-More than 20 years of experience in diverse environments, as a lone writer and as a
+- More than 20 years of experience in diverse environments, as a lone writer and as a
 member of tech writing teams.
-Establish technical writer roles, create content management strategies, roadmaps, content
+- Establish technical writer roles, create content management strategies, roadmaps, content
 audits, gap-analyses, templates, standards and processes, computer-based training.
-Collaborate with subject-matter experts, product designers and other specialists to
+- Collaborate with subject-matter experts, product designers and other specialists to
 determine requirements, UI elements, and plan upcoming documentation releases.
-Experienced in authoring, editing and publishing customer-facing and internal documents
+- Experienced in authoring, editing and publishing customer-facing and internal documents
 for accuracy, grammar, formatting, clarity, and tone.
-Adept at supporting diverse user needs, and translating technical information into
+- Adept at supporting diverse user needs, and translating technical information into
 user-friendly information.
-Effectively organize and prioritize workflow; easily adapt to changing priorities and
+- Effectively organize and prioritize workflow; easily adapt to changing priorities and
 challenging situations.
 
 ### Areas of expertise:
